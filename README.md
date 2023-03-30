@@ -3,7 +3,7 @@
 - 🔭 Travel agent and accountant in the past, I’m open for a new developer chapter of my life
 - 🌱 Starting in IT were QA courses. However, now it is obvious that I want to create a product, not just ensure quality.
 - 🤔 I'm looking for an opportunity to create, to be useful and free.
-- 📫 How to reach me: **seredinaleta@gmail.com**, **+380 681260173** (tel/Viber/telegram/WhatsApp)
+- 📫 How to reach me: **seredinaleta@gmail.com**, **+380 681260173** (Phone/Viber/Telegram/WhatsApp)
 - ⚡ Glory to Ukraine!
 
 ### My stack and tools
